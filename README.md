@@ -1,2 +1,2 @@
-# Deep-Learning-In-Healthcare-Spring23
+# Deep Learning in Healthcare 🩻
 Deep learning projects on classifying pneumonia medical images
